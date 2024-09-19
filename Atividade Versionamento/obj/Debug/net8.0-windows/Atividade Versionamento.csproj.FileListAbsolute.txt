@@ -1,0 +1,16 @@
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\bin\Debug\net8.0-windows\Atividade Versionamento.exe
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\bin\Debug\net8.0-windows\Atividade Versionamento.deps.json
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\bin\Debug\net8.0-windows\Atividade Versionamento.runtimeconfig.json
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\bin\Debug\net8.0-windows\Atividade Versionamento.dll
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\bin\Debug\net8.0-windows\Atividade Versionamento.pdb
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade_Versionamento.Form1.resources
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.csproj.GenerateResource.cache
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.AssemblyInfo.cs
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.dll
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\refint\Atividade Versionamento.dll
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.pdb
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\Atividade Versionamento.genruntimeconfig.cache
+C:\Users\richa\source\repos\Atividade Versionamento\Atividade Versionamento\obj\Debug\net8.0-windows\ref\Atividade Versionamento.dll
